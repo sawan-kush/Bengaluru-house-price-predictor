@@ -3,7 +3,7 @@
 A machine learning project that predicts house prices in Bengaluru using property details like area, BHK, bathrooms, and location.
 The project compares three different modeling approaches and explains why the highest-scoring model isn't always the one that got deployed.
 
-**Live demo:** http://192.168.1.6:8501
+**Deployed Project:**  https://bengaluru-house-price-predictor-moln.onrender.com
 
 ## Overview
 
